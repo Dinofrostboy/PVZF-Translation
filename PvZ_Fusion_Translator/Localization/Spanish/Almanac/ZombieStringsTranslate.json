@@ -313,7 +313,25 @@
       "theZombieType": 56,
       "name": "Hielabestia",
       "introduce": "<size=39><color=#3D1400>La búsqueda de la clasificación biológica de las Hielabestias han tenido poco progreso. Después de todo, no puedes esperar zombis sin cerebro siendo académicamente inteligentes. La mayoría nisiquiera puede distinguir una Hielabestia real a un Zombi Yeti. Por lo menos, el Dr. Edgar sugirió un método brillante: distinguiéndolos por quien se ve mas inteligente. El mas inteligente es la Hielabestia.</color>",
-      "info": "<size=39>Una criatura nativa a la nieve.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>1350</color>\n<color=#3D1400>Características:</color><color=#4B0082> Cuando los zombis destruyen un bloque de hielo sin un Vegezombi correspondiente, una Hielabestia aparece. Se mueven muy lentamente, aplastando plantas, pero no atacan directamente.</color>"
+      "info": "<size=39>Una criatura nativa a la nieve.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>1350</color>\n<color=#3D1400>Características:</color><color=#4B0082> Invulnerable al congelamiento básico, pero sí al congelamiento profundo. Cuando los zombis destruyen un bloque de hielo sin un Vegezombi correspondiente, una Hielabestia aparece. Se mueven muy lentamente, aplastando plantas, pero no atacan directamente.</color>"
+    },
+    {
+      "theZombieType": 57,
+      "name": "Hielabestia Anciana",
+      "introduce": "<size=39><color=#3D1400>Más fuerte, más sabio y con una cola más pesada que otras Hielabestias, lo que realmente la convirtió en líder fue su notable salto; guiando a sus parientes hasta la fuente de la cascada congelada.</color>",
+      "info": "<size=39>Cúspide de la nieve.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000</color>\n<color=#3D1400>Características:</color><color=#4B0082> Invulnerable al congelamiento básico, pero sí al congelamiento profundo. Cuando los zombis destruyen un bloque de hielo sin un Vegezombi correspondiente, una Hielabestia aparece, con una chance de 1/4 de que se transforme en una Hielabestia Anciana. Al aparecer, salta 2 casillas hacia adelante. Se mueven muy lentamente, aplastando plantas, pero no atacan directamente.</color>"
+    },
+    {
+      "theZombieType": 58,
+      "name": "Zombi Pico",
+      "introduce": "<size=39><color=#3D1400>\u0022No quiero vivir en este mundo\u0022, lamenta el Zombi Pico, sin encontrar alegría en su monótona vida. Solo quiere minar suficiente obsidiana para construir un portal e irse. Sin mencionar que el otro lado del portal es aún más peligroso y monótono; no tiene ninguna posibilidad de encenderlo. La única herramienta de ignición conocida las tienen las plantas de fuego, y ya saben que pasará si el zombi les llega a pedir ayuda.</color>",
+      "info": "<size=39>Usa un pico aleatorio para minar tu defensa.\n\n<color=#3D1400>Daño: </color><color=#4B0082>50 (Sin Morder)</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>720 + 1400</color>\n<color=#3D1400>Características:</color><color=#4B0082>\n- Sus ataques acumulan el progreso de minería contra plantas defensivas; al alcanzar el 100%, mata instantáneamente a la planta que estaba minando.\n- Progreso de Minería = (número de ataques × daño del pico) / PS de la planta.\n- Al aparecer, recibe aleatoriamente un pico con diferentes velocidades para minar. Al atacar plantas con una durabilidad inferior a la potencia de su pico, el daño del pico se multiplica por 5.\n- Tipos de Pico:\nPico de Oro: 150 de daño | 4000 de poder\nPico de Hierro: 50 de daño | 16000 de poder\nPico de Diamante: 100 de daño | 32000 de poder\n<color=black>•</color> Plantas Defensivas: Nueces, Calabazas, Hamburgueso, Pera Polar.</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Minero...obviamente.</color></size>"
+    },
+    {
+      "theZombieType": 59,
+      "name": "Delfín Lector",
+      "introduce": "<size=39><color=#3D1400>Una vez soñó con convertirse en una sirena, pero el cirujano que debía hacer su sueño realudad confundió completamente sus mitades superior e inferior. Haciendo...esto.</color>",
+      "info": "<size=39>Se enoja DEMASIADO cuando interrumpen su lectura... luego vuelve a casa a buscar otro periódico.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720 + 720</color>\n<color=#3D1400>Características:</color><color=#4B0082>Al romper su periódico, corre rápidamente a la dirección opuesta a buscar otro. Restaura toda su vida al hacer esto.</color>"
     },
     {
       "theZombieType": 100,
@@ -353,8 +371,8 @@
     },
     {
       "theZombieType": 106,
-      "name": "Vegezombi Hierrinuez</size>",
-      "introduce": "<size=39><color=#3D1400>¿Por qué la cabeza del Vegezombi Hierrinuez está hecha de hierro? Es porque todos decían que comer nueces alimentaba el cerebro, pero no se dio cuenta de que las nueces que consumía estaban llenas de hierro. Sin embargo, puede que no sea tan malo: al menos ahora tiene una cabeza de hierro.</color></size>",
+      "name": "Vegezombi Nuez Férrea</size>",
+      "introduce": "<size=39><color=#3D1400>¿Por qué la cabeza del Vegezombi Nuez Férrea está hecha de hierro? Es porque todos decían que comer nueces alimentaba el cerebro, pero no se dio cuenta de que las nueces que consumía estaban llenas de hierro. Sin embargo, puede que no sea tan malo: al menos ahora tiene una cabeza de hierro.</color></size>",
       "info": "<size=39>Es una nuez metálica móvil.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>270+2200</color>\n<color=#3D1400>Características: </color><color=#4B0082>Dejará caer una cubeta de hierro cuando sea destruido por balas.</color></size>"
     },
     {
@@ -365,14 +383,14 @@
     },
     {
       "theZombieType": 108,
-      "name": "Vegezombi Metálico</size>",
+      "name": "Vegezombi Ferroguisante</size>",
       "introduce": "<size=39><color=#3D1400>El año pasado, el Vegezombi Metálico sacó una carta del tarot que decía \"El Emperador.\" Desde entonces, ha podido disparar balas de hierro a voluntad.</color></size>",
       "info": "<size=39>Dispara balas de alto daño.\n\n<color=#3D1400>Daño: </color><color=#4B0082>80</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>1350</color>\n<color=#3D1400>Características: </color><color=#4B0082>Dejará caer una cubeta de hierro cuando sea destruido por balas.</color></size>"
     },
     {
       "theZombieType": 109,
-      "name": "Vegezombi Al-Ta-Star</size>",
-      "introduce": "<size=39><color=#3D1400>El Vegezombi Al-Ta-Star era una vez solo un Zombi Deportista ordinario, hasta que un día chocó con una nuez que estaba esparciendo fertilizante. \"¡No sé cómo este tipo terminó en mi cabeza; me está sofocando!\" lamentó el Vegezombi Al-Ta-Star.</color></size>",
+      "name": "Vegezombi All-Star</size>",
+      "introduce": "<size=39><color=#3D1400>El Vegezombi All-Star era una vez solo un Zombi Deportista ordinario, hasta que un día chocó con una nuez que estaba esparciendo fertilizante. \"¡No sé cómo este tipo terminó en mi cabeza; me está sofocando!\" lamentó el Vegezombi All-Star.</color></size>",
       "info": "<size=39>Zombi de alta armadura que también puede correr muy rápido.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>270+4400</color>\n<color=#3D1400>Características: </color><color=#4B0082>Dejará caer un casco de rugby cuando sea destruido por balas.</color></size>"
     },
     {
@@ -437,6 +455,12 @@
       "info": "<size=39>¡El Guisanticóptero puede disparar mientras flota!\n\n<color=#3D1400>Daño:</color> <color=#4B0082>80</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>1350+500</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Recolector de guisantes que encuentra por el jardín.</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Tiene las mismas características que Zombicóptero, pero puede disparar plantas terrestres.</color></size>"
     },
     {
+      "theZombieType": 120,
+      "name": "Vegezombi Petaseta",
+      "introduce": "<size=39><color=#3D1400>Los zombis ya están hartos de ser reducidos a cenizas por las explosiones de Petaseta. Ahora por fin han construido un arma nuclear de contraataque para que las plantas sufran, para variar. Aunque el cuerpo de un zombi solo puede soportar un tercio de la carga completa de la Petaseta, sigue siendo mejor que nada, ¿verdad?</color>",
+      "info": "<size=39>¡Menos mal que no es igual de fuerte que una Petaseta normal!\n\n<color=#3D1400>Dureza: </color><color=#4B0082>1350</color>\n<color=#3D1400>Características:</color><color=#4B0082>Después de cierto tiempo se destruye y crea una explosión que hace 1800 de daño a las plantas en un área de 3x3.</color>"
+    },
+    {
       "theZombieType": 200,
       "name": "Zombi Submarinón</size>",
       "introduce": "<size=39><color=#3D1400>\"¡Un excelente buceador no solo debe saber bucear, sino también conducir un super submarino!\" declaró el Zombi Submarinón mientras aumentaba la potencia del submarino en una marcha.</color></size>",
@@ -472,7 +496,6 @@
       "introduce": "<size=39><color=#3D1400>¿Era SuperZombi?, ¿Zombi Globo? en realidad, era un gigantesco dirigible, resistente y capaz de liberar luchadores. Incluso destruido, sigue causando estragos y los zombis mantienen su distancia por temor a un choque fatal.</color></size>",
       "info": "<size=39>¡Kirov informando!\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000</color>\n<color=#3D1400>Características: </color><color=#4B0082>Invoca un mini Kirov en acción cada segundo. Al estrellarse tras su muerte, causa un inmenso daño a las plantas en el impacto.</color></size>"
     },
-
     {
       "theZombieType": 206,
       "name": "Dron Kirov</size>",
@@ -597,13 +620,19 @@
   "theZombieType": 226,
   "name": "Zombi Alfa",
   "introduce": "<size=39><color=#3D1400>“¡La guerra es la espada con la que tomaremos las tierras bajo el sol! ¡La victoria es un objetivo inevitable!”\n - “Capitán, creo que acabo de pisar un monstruo de nieve.”\n - “Déjalo, no es un trofeo, solo retrasará nuestra victoria mayor.”\n - “¿Capitán, su nuevo libro saldrá después de esta guerra?”\n - “Cuando esté muerto.”</color></size>",
-  "info": "<size=39>Normalmente operan en dúos, pero los de élite pueden desplegarse en formación completa.\n\n<color=#3D1400>Daño:</color> <color=#4B0082>500×2</color>\n<color=#3D1400>Dureza:</color> <color=#4B0082>6000+6000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n - Inmunes a la hipnotización\n - Suelen aparecer en parejas\n - Cuando son zombis líderes, aparecen 5 en cada fila (una unidad por fila), todos forman un solo grupo.\n - Al recibir daño letal, si algún miembro del equipo no está en estado crítico, entra en estado de agonía en vez de morir. Si todos están en este estado, todo el grupo muere al instante.\n - Estado de Agonía\n   - Inmunes al daño (solo una vez)\n   - Inmunes al retroceso\n   - No son blanco de ataques automáticos, pero bloquean proyectiles\n   - Tras 10 segundos, reviven con vida completa, avanzan 2.5 casillas causando 500 de daño a cada planta impactada y luego liberan una explosión.\n   - Si sufren efectos de muerte instantánea (como ser devorados), ambos miembros del dúo mueren inmediatamente.</color>\n<color=#3D1400>Debilidades:</color> <color=#4B0082>Fusiones de: Plantas Carnívoras, Paraplantas.</color>\n<color=#3D1400>Modificadores de Odisea:</color> <color=#4B0082>- Estado de agonía inmune al daño indefinidamente\n- Puede aparecer como zombi líder</color></size>"
+  "info": "<size=39>Normalmente operan en dúos, pero los élite pueden desplegarse en formación completa.\n\n<color=#3D1400>Daño:</color> <color=#4B0082>500×2</color>\n<color=#3D1400>Dureza:</color> <color=#4B0082>6000+6000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n - Inmunes a la hipnotización\n - Suelen aparecer en parejas\n - Cuando son zombis líderes, aparecen 5 en cada fila (una unidad por fila), todos forman un solo grupo.\n - Al recibir daño letal, si algún miembro del equipo no está en estado crítico, entra en estado de agonía en vez de morir. Si todos están en este estado, todo el grupo muere al instante.\n - Estado de Agonía\n   - Inmunes al daño (solo una vez)\n   - Inmunes al retroceso\n   - No son blanco de ataques automáticos, pero bloquean proyectiles\n   - Tras 10 segundos, reviven con vida completa, avanzan 2.5 casillas causando 500 de daño a cada planta impactada y luego liberan una explosión.\n   - Si sufren efectos de muerte instantánea (como ser devorados), ambos miembros del dúo mueren inmediatamente.</color>\n<color=#3D1400>Debilidades:</color> <color=#4B0082>Fusiones de: Plantas Carnívoras, Paraplantas.</color>\n<color=#3D1400>Modificadores de Odisea:</color> <color=#4B0082>- Estado de agonía inmune al daño indefinidamente\n- Puede aparecer como zombi líder</color></size>"
         },
         {
       "theZombieType": 227,
       "name": "Vegezombi Centinela",
       "introduce": "<size=39><color=#3D1400>*Ay no... La descripción se congeló, revisa aquí otro dia.*</color>",
       "info": "<size=39>Vegezombis Árticos con garras de hielo.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720 + 2200</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Inhiere características del Vegezombi Ártico. Provienen de zombis transformados por Seta Emperador y Cactus Emperador.</color>"
+        },
+        {
+      "theZombieType": 228,
+      "name": "Yombi Electropolar",
+      "introduce": "<size=39><color=#3D1400>Con cuchillas de hielo y un manto de ventisca, talla estatuas de carne destrozada y moldea el poder divino con una voluntad inquebrantable. Una deidad artificial, un espectro de la tundra. Cuando todo llegue a su fin, ¿recordará donde se creó, aquí en la nieve?</color>",
+      "info": "<size=39>Soberana de la Tundra Congelada.\n\n<color=#3D1400>Daño: </color><color=#4B0082>1000</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>64000</color>\n<color=#3D1400>Características:</color><color=#4B0082>\n- Minijefe, invulnerable al congelamiento básico, al empujamiento y a ser aturdida.\n- Aplasta plantas. Sus ataques las congelan durante 5 segundos.\n- Al aparecer, realiza un corte que daña a todas las plantas que tenga enfrente (pueden protegerse con Calabazas) y luego libera 5 bolas de nieve, alrededor de su carril, cada una dañando en un área de 3x3.\n- Después, realiza un corte o un ataque normal cada 3 segundos; cuanto menos PS tenga, mayor será la probabilidad de cortar\n- Los ataques normales lanzan 4 espadas de hielo hacia adelante.\n- En el mapa de Nieve, tiene la posibilidad de invocar una ventisca instantáneamente.</color>"
         }
     ]
 }
