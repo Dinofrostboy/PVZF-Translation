@@ -683,7 +683,7 @@
             "seedType": 936,
             "name": "Radiant Pot",
             "introduce": "<align=justified><size=36><color=black>Deep in the garden, where the sun always shines, Radiant Pot stands in quiet devotion. He doesn't chatter, nor does he boast—he simply gives, weaving sunlight into golden coins, waiting patiently for you to grow as <i>radiant</i> as he is.</color>",
-            "info": "<size=36>Can quickly generate a lot of Sun and Coins.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Special: </color><color=#8B0000>Inherits traits from Golden Pot. Produces 50 Sun and 100 Coins every n=(Current Sun/1000) Seconds, where 3 ≥ n ≥ 15.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Upgrade costs from Silver Pots to Golden Pots will not exceed 8000\n2. Coins exceeding the maximum amount will be converted into Sun at a rate of 2:1</color>",
+            "info": "<size=36>Can quickly generate a lot of Sun and Coins.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Special: </color><color=#8B0000>Inherits traits from Golden Pot. Produces 50 Sun and 100 Coins every n=(Current Sun/1000) Seconds, where 3 ≤ n ≤ 15.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Upgrade costs from Silver Pots to Golden Pots will not exceed 8000\n2. Coins exceeding the maximum amount will be converted into Sun at a rate of 2:1</color>",
             "cost": "<size=36>\nFusion Formula: </color><color=#8B0000>Sunflower > Golden Pot</color>"
         },
         {
@@ -781,7 +781,7 @@
             "seedType": 950,
             "name": "Radiant Pad",
             "introduce": "<align=justified><size=36><color=black>Her devotion to the Sun God flows louder than a raging river. Radiant Pad was eventually dismissed from the Sun Guard for being way too noisy—but that hasn’t stopped her from preaching His glory to every creature beneath the waves. So deep in her zeal, she hasn’t noticed one thing: she’s been blocking all the sunlight from reaching the lakebed.</color>",
-            "info": "<size=36>Golden Lilypad that can quickly produce copious amounts of Sun and Fortune.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection with Radiant Pot</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Produces 50 Sun and 100 Coins every n=(Current Sun/1000) Seconds, where 3 ≥ n ≥ 15.</color>",
+            "info": "<size=36>Golden Lilypad that can quickly produce copious amounts of Sun and Fortune.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection with Radiant Pot</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Produces 50 Sun and 100 Coins every n=(Current Sun/1000) Seconds, where 3 ≤ n ≤ 15.</color>",
             "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Land <-> Water</color>"
         },
         {
