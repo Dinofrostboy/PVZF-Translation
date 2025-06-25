@@ -81,7 +81,7 @@
   },
 "LilyPad": {
   "achievement": 16,
-  "Name": "Haz que un Nenufar produzca plantas.",
+  "Name": "Haz que un Nenúfar produzca plantas.",
   "Text": "¡Aparecela magazo!"
   },
 "ThreePeater": {
@@ -91,12 +91,12 @@
   },
 "SquashKelp": {
   "achievement": 18,
-  "Name": "Descubre la Apisonampalga.",
+  "Name": "Descubre la Zampalga Voraz.",
   "Text": "La alga molesta"
   },
 "ThreeSpike": {
   "achievement": 19,
-  "Name": "Usa una Tripihierba para enfrentar al Zomvictor.",
+  "Name": "Usa una Tripitihierba para enfrentar al Zomvictor.",
   "Text": "Picale las costillas"
   },
 "SunSeaShroom": {
@@ -106,7 +106,7 @@
   },
 "StarBlover": {
   "achievement": 21,
-  "Name": "Usa un Frustrebol para atraer estrellas.",
+  "Name": "Usa una Trebulosa para atraer estrellas.",
   "Text": "Manager de Estrellas"
   },
 "MagnetShroom": {
@@ -116,7 +116,7 @@
   },
 "CornCabbage": {
   "achievement": 23,
-  "Name": "Descubre la Choclopulta.",
+  "Name": "Descubre el Lanzachoclos.",
   "Text": "El maíz es una mentira"
   },
 "GarlicCorn": {
@@ -221,12 +221,12 @@
   },
   "IceCannon": {
     "achievement": 44,
-    "Name": "Usa un Criocañón para congelar plantas.",
+    "Name": "Usa un Crio-cañón para congelar plantas.",
     "Text": "Que frío"
   },
   "FireCannon": {
     "achievement": 45,
-    "Name": "Usa un Ajicañón para quemar plantas.",
+    "Name": "Usa un Piro-cañón para quemar plantas.",
     "Text": "Que calor"
   },
   "UltimateCannon": {
@@ -306,7 +306,7 @@
 },
 "SuperMachineNut": {
   "achievement": 61,
-  "Name": "Cura una Super Nuez Kirov hasta un millón de HP.",
+  "Name": "Cura una Nuez Kirov hasta un millón de HP.",
   "Text": "¿Esto es un pescado?"
 },
 "SuperSunNut": {
@@ -326,7 +326,7 @@
 },
 "IronNut": {
   "achievement": 65,
-  "Name": "Descubre la Hierrinuez.",
+  "Name": "Descubre la Nuez Férrea.",
   "Text": "¿Y Beth?"
 },
 "Sub": {

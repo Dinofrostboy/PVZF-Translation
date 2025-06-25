@@ -564,7 +564,7 @@
             "seedType": 919,
             "name": "Phoenix Threepeater",
             "introduce": "<align=justified><size=36><color=black>No one knows if fire truly brings rebirth to plants—it's just a legend. Those who chased it turned to ash, until he became the new legend. \"I don't know how many times I must endure the flames to succeed, but for them, I have to.\"</color>",
-            "info": "<size=36>From fire reborn!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Damage: </color><color=#8B0000>160×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Ignites the whole lawn upon entry.\n<color=black>•</color> Its bullets inflict the Enflamed debuff and pierce 2 times.\n<color=black>•</color> Its damage is doubled after passing through a Infernal Squashwood.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Enflamed damage multiplier → 150%, and regular ignited peas can now inflict the debuff\n2. Bullets can now pierce infinitely and cause Enflamed explosions</color>",
+            "info": "<size=36>From fire reborn!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Damage: </color><color=#8B0000>160×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Ignites the whole lawn upon entry.\n<color=black>•</color> Its bullets inflict the Enflamed debuff and pierce 2 times.\n<color=black>•</color> Its damage is doubled after passing through a Infernal Squashwood.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Enflamed damage multiplier → 150%, and regular ignited projectiles can now inflict the debuff\n2. Bullets can now pierce infinitely and cause Enflamed explosions</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ashen Threepeater + Jalapeno</color>"
         },
         {
@@ -683,7 +683,7 @@
             "seedType": 936,
             "name": "Radiant Pot",
             "introduce": "<align=justified><size=36><color=black>Deep in the garden, where the sun always shines, Radiant Pot stands in quiet devotion. He doesn't chatter, nor does he boast—he simply gives, weaving sunlight into golden coins, waiting patiently for you to grow as <i>radiant</i> as he is.</color>",
-            "info": "<size=36>Can quickly generate a lot of Sun and Coins.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Special: </color><color=#8B0000>Inherits traits from Golden Pot. Produces 50 Sun and 100 Coins every n=(Current Sun/1000) Seconds, where 3 ≥ n ≥ 15.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Upgrade costs from Silver Pots to Golden Pots will not exceed 8000\n2. Coins exceeding the maximum amount will be converted into Sun at a rate of 2:1</color>",
+            "info": "<size=36>Can quickly generate a lot of Sun and Coins.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Special: </color><color=#8B0000>Inherits traits from Golden Pot. Produces 50 Sun and 100 Coins every n=(Current Sun/1000) Seconds, where 3 ≤ n ≤ 15.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Upgrade costs from Silver Pots to Golden Pots will not exceed 8000\n2. Coins exceeding the maximum amount will be converted into Sun at a rate of 2:1</color>",
             "cost": "<size=36>\nFusion Formula: </color><color=#8B0000>Sunflower > Golden Pot</color>"
         },
         {
@@ -781,7 +781,7 @@
             "seedType": 950,
             "name": "Radiant Pad",
             "introduce": "<align=justified><size=36><color=black>Her devotion to the Sun God flows louder than a raging river. Radiant Pad was eventually dismissed from the Sun Guard for being way too noisy—but that hasn’t stopped her from preaching His glory to every creature beneath the waves. So deep in her zeal, she hasn’t noticed one thing: she’s been blocking all the sunlight from reaching the lakebed.</color>",
-            "info": "<size=36>Golden Lilypad that can quickly produce copious amounts of Sun and Fortune.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection with Radiant Pot</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Produces 50 Sun and 100 Coins every n=(Current Sun/1000) Seconds, where 3 ≥ n ≥ 15.</color>",
+            "info": "<size=36>Golden Lilypad that can quickly produce copious amounts of Sun and Fortune.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection with Radiant Pot</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Produces 50 Sun and 100 Coins every n=(Current Sun/1000) Seconds, where 3 ≤ n ≤ 15.</color>",
             "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Land <-> Water</color>"
         },
         {
@@ -1523,7 +1523,7 @@
             "seedType": 1104,
             "name": "Stardrop",
             "introduce": "<align=justified><size=36><color=black>Stardrop's favorite nights? The ones where fog takes a break and lets him chat with the stars. \"They totally get me,\" he says, convinced they're just as drawn to him as he is to them. One day, he's sure, one will drop down and say hello. Until then? He'll keep talking.",
-            "info": "<size=36>Summons a meteor that deal devastating damage.\n\n<color=black>Damage: </color><color=#8B0000>60×5/3s</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Lumos levels 1 to 3 has the same effect as Starglow. Upon hitting Lumos Level 4, summons another type of meteor that has a separate cooldown from the original meteor.</color>\n<color=#666699>Magnetic System: </color><color=#8B0000>Each plant connected to the Magnetic System will increase the damage of the stars by 5%.\n<color=#6A0C9D>Both systems can increase the damage of the stars by upto 120, maximum.<color=black>Special: </color><color=#8B0000>Summons a meteor that hit the ground and explode into stars every 60 seconds. The cooldown can be reduced by connecting other Stardrops together, upto 13 for an improved cooldown of 25 seconds.</color>",
+            "info": "<size=36>Summons a meteor that deal devastating damage.\n\n<color=black>Damage: </color><color=#8B0000>60×5/3s</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Lumos levels 1 to 3 has the same effect as Starglow. Upon hitting Lumos Level 4, summons another type of meteor that has a separate cooldown from the original meteor.</color>\n<color=#666699>Magnetic System: </color><color=#8B0000>Each plant connected to the Magnetic System will increase the damage of the stars by 5%.\n<color=#6A0C9D>Both systems can increase the damage of the stars upto 120, maximum.<color=black>Special: </color><color=#8B0000>Summons a meteor that hit the ground and explode into stars every 60 seconds. The cooldown can be reduced by connecting other Stardrops together, upto 13 for an improved cooldown of 25 seconds.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Plantern + Magnet-shroom + Starfruit</color>"
         },
         {
