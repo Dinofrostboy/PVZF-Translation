@@ -2,241 +2,242 @@
   "plants": [
     {
       "seedType": 0,
-      "name": "<size=42>Disparervilha",
-      "introduce": "<size=30><color=black>Como pode uma única planta crescer e atirar tantas ervilhas tão rapidamente? A Disparervilha diz: \u0022Trabalho duro, compromisso, saúde, um almoço bem balanceado com luz solar e alta fibra de dióxido de carbono tornam isso possível.\u0022</color></size>",
-      "info": "<size=32>Dispara uma ervilha de cada vez.\n\n<color=black>Dano: </color><color=#8B0000>20 | 1,5 segundos</color></size>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>100</color>\nRecarga: <color=#8B0000>7,5 segundos</color></size>"
+      "name": "<size=42>Disparavilha",
+      "introduce": "<size=30><color=black>Como é que uma única planta consegue crescer e disparar tantas ervilhas tão rápido? A Disparavilha diz: \u0022Trabalho duro, compromisso, saúde e um almoço saudável e bem equilibrado de luz solar e dióxido de carbono rico em fibras tornam isso tudo possível.\u0022</color></size>",
+      "info": "<size=32>As Disparavilhas são as tuas primeiras linhas de defesa. Elas disparam ervilhas aos zombies atacantes.\n\n<color=black>Dano: </color><color=#8B0000>20/1,5s</color>\n<color=black>Alcance: </color><color=#8B0000>Uma faixa</color></size>",
+      "cost": "<size=28>\nCusto: <color=#8B0000>100</color>\nRecarga: <color=#8B0000>7,5s</color></size>"
     },
     {
       "seedType": 1,
       "name": "<size=42>Girassol",
-      "introduce": "<size=30><color=black>A Girassol não pode resistir ao balanço da batida. Que batida é essa? Ora, é o vivificante ritmo de Jazz da própria Terra, batendo em uma frequência única que só as Girassóis podem ouvir.</color></size>",
-      "info": "<size=32>São essenciais para produção de sol. Tente plantar o máximo que puder!\n\n<color=black>Produção de Sol: </color><color=#8B0000>25 | 25 segundos</color></size>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>50</color>\nRecarga: <color=#8B0000>7,5 segundos</color></size>"
+      "introduce": "<size=30><color=black>O Girassol não resite abanar o capacete ao ritmo da batida. Que batida é essa? Ora, o revigorante ritmo de jazz da própria Terra, vibrando numa frequência que só o Girassol pode ouvir.</color></size>",
+      "info": "<size=32>Os Girassóis são essenciais para produzires um solzinho extra. Tenta plantar o máximo que puder!\n\n<color=black>Produção Solar: </color><color=#8B0000>25/25s</color></size>",
+      "cost": "<size=28>\nCusto: <color=#8B0000>50</color>\nRecarga: <color=#8B0000>7,5s</color></size>"
     },
     {
       "seedType": 2,
-      "name": "<size=42>Cerejas-Bomba",
-      "introduce": "<size=30><color=black>\u0022Eu quero explodir,\u0022 diz o Cereju. \u0022Não, vamos detonar!\u0022 diz seu irmão, Cerejo. Depois de uma intensa conversa, eles concordaram com \u0022explodonar!\u0022.</color></size>",
-      "info": "<size=32>Explodem zumbis em uma área.\n\n<color=black>Dano: </color><color=#8B0000>1800</color></size>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>150</color>\nRecarga: <color=#8B0000>7,5 segundos</color></size>"
+      "name": "<size=42>Bomba-Cerejas",
+      "introduce": "<size=30><color=black>\u0022Eu quero explodir\u0022, diz a Cereja Um.\u0022Não, vamos é detonar!\u0022 diz a Cereja Dois. Depois de uma intensa reunião, eles concordaram em \u0022explodonar\u0022.</color></size>",
+      "info": "<size=32>Bombas-Cerejas conseguem rebentar todos os zombies numa área. Elas têm o pavio curto, então planta-as perto de zombies.\n\n<color=black>Dano: </color><color=#8B0000>1800 (Cremação)</color>\n<color=black>Alcance: </color><color=#8B0000>3×3 (Uma circulo com um raio de 1,375 azulejos)</color></size>",
+      "cost": "<size=28>\nCusto: <color=#8B0000>150</color>\nRecarga: <color=#8B0000>50s</color></size>"
     },
     {
       "seedType": 3,
-      "name": "<size=42>Noz-Obstáculo",
-      "introduce": "<size=30><color=black>\u0022As pessoas se perguntam como me sinto por estar sempre sendo mastigado por zumbis,\u0022 diz Noz-Obstáculo. \u0022O que elas não percebem é que, com meus sentidos limitados, tudo o que sinto é uma espécie de formigamento, como uma massagem relaxante nas costas.\u0022</color></size>",
-      "info": "<size=32>Planta de casca dura usada para proteger outras plantas.\n\n<color=black>Resistência: </color><color=#8B0000>4000</color></size>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>50</color>\nRecarga: <color=#8B0000>30 segundos</color></size>"
+      "name": "<size=42>Noz",
+      "introduce": "<size=30><color=black>\u0022As pessoas perguntam-se como é que é estar sempre a ser mastigado por zombies\u0022, diz a Noz.\u0022O que elas não sabem é que, com os meus sentidos limitados, tudo o que eu sinto é uma espécie de formigueiro, tipo um relaxante coçar de costas\u0022.</color></size>",
+      "info": "<size=32>As Nozes têm casca rija que protegem as tuas outras plantas.\n\n<color=black>Resistência: </color><color=#8B0000>4000</color>\n<color=black>Especial: </color><color=#8B0000>A Noz e as suas fusões subsequentes previnem o dano de área de cerejas explosivas a dificulades 4 ou menos. </color></size>",
+      "cost": "<size=28>\nCusto: <color=#8B0000>50</color>\nRecarga: <color=#8B0000>30s</color></size>"
     },
     {
       "seedType": 4,
-      "name": "<size=42>Batatamina",
-      "introduce": "<size=30><color=black>Alguns dizem que Batatamina é preguiçosa, que deixa tudo para a última hora. Batatamina não diz nada. Ela está ocupada pensando em sua estratégia de investimento.</color></size>",
-      "info": "<size=32>Explodem um ou vários zumbis por vez, mas precisam de um tempo para se armar.\n\n<color=black>Dano: </color><color=#8B0000>1800</color>\n<color=black>Armação: </color><color=#8B0000>14 segundos ou menos</color>\n<color=#780072>Especial: </color><color=#8B0000>Explode no contato. Podem se multiplicar para 9 com Cerejas-Bomba e fundir com outras plantas compatíveis ao redor no processo.</color></size>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>25</color>\nRecarga: <color=#8B0000>30 segundos</color></size>"
+      "name": "<size=42>Batata-Mina ",
+      "introduce": "<size=30><color=black>Alguns dizem que o Batata-Mina é preguiçoso, que deixa tudo para a última hora. O Batata-Mina não diz nada. Ele está demasiado ocupado a pensar na sua estratégia de investimento.</color></size>",
+      "info": "<size=32>Os Batata-Mina trazem tudo consigo, só precisam é de um tempo para se armarem. Deves plantá-los à frente dos zombies. Eles explodem se lhes tocarem.\n\n<color=black>Armação: </color><color=#8B0000>15~17s</color>\n<color=black>Dano: </color><color=#8B0000>1800</color>\n<color=black>Alcance: </color><color=#8B0000>Um azulejo (Um círculo com um raio de 0,68 azulejos)</color>\n<color=#780072>Especial: </color><color=#8B0000>Planta baixa (evade projéteis retos). </color></size>",
+      "cost": "<size=28>\nCusto: <color=#8B0000>25</color>\nRecarga: <color=#8B0000>30s</color></size>"
     },
     {
       "seedType": 5,
-      "name": "<size=42>Carnívora",
-      "introduce": "<size=30><color=black>Carnívora quase conseguiu um trabalho como dublê em \u0022A Pequena Loja dos Horrores\u0022, mas o contrato foi cancelado quando seu agente exigiu muito no adiantamento. Carnívora não guarda ressentimentos. Ela diz que faz parte do negócio.</color></size>",
-      "info": "<size=32>Devoram um zumbi inteiro por vez, mas fica vulnerável enquanto mastiga.\n\n<color=black>Dano: </color><color=#8B0000>Morte instantânea</color></size>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>150</color>\nRecarga: <color=#8B0000>7,5 segundos</color></size>"
+      "name": "<size=42>Trincador",
+      "introduce": "<size=30><color=black>O Trincador quase que conseguiu um trabalho na \u0022Pequena Loja dos Horrores\u0022, mas foi por água abaixo quando o seu agente exigiu demasiado no adiantamento. O Trincador não guarda ressentimentos. Que diz que faz parte de negócios.</color></size>",
+      "info": "<size=32>Os Trincadores conseguem devorar um zombie inteiro, mas ficam vulneráveis enquanto mastigam.\n\n<color=black>Dano: </color><color=#8B0000>Morte instantânea (Devoração)\n<color=black>Tempo de Consumo: </color><color=#8B0000>30s</color>\n<color=black>Especial: </color><color=#8B0000>Causa 40 de dano por dentada a zombies imunes a serem devorados.</color></size>",
+      "cost": "<size=28>\nCusto: <color=#8B0000>150</color>\nRecarga: <color=#8B0000>7,5s</color></size>"
     },
     {
       "seedType": 6,
-      "name": "<size=42>Soprogumelo",
+      "name": "<size=42>Puff-gumelo",
       "introduce": "<size=30><color=black>\u0022Só recentemente tomei consciência da existência dos zumbis,\u0022 diz Soprogumelo. \u0022Como muitos fungos, eu achava que eram contos de fada ou monstros de filmes. Toda essa experiência foi uma grande revelação para mim.\u0022</color></size>",
-      "info": "<size=32>Dispara um esporo de cada vez a curta distância.\n\n<color=black>Dano: </color><color=#8B0000>20 | 1,5 segundos</color>\n<color=#780072>Especial: </color><color=#8B0000>Pode se acumular em até três Soprogumelos por espaço. Pode dar espaço a Gasogumelos e Medogumelos ao plantá-los por cima, sem fusão alguma.</color></size>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>0</color>\nRecarga: <color=#8B0000>7,5 segundos</color></size>"
+      "info": "<size=32>Dispara um esporo de cada vez a curta distância.\n\n<color=black>Dano: </color><color=#8B0000>20 | 1,5s</color>\n<color=#780072>Especial: </color><color=#8B0000>Pode se acumular em até três Soprogumelos por espaço. Pode dar espaço a Gasogumelos e Medogumelos ao plantá-los por cima, sem fusão alguma.</color></size>",
+      "cost": "<size=28>\nCusto: <color=#8B0000>0</color>\nRecarga: <color=#8B0000>7,5s</color></size>"
     },
     {
       "seedType": 7,
-      "name": "<size=42>Gasogumelo",
+      "name": "<size=42>Fumo-gumelo",
       "introduce": "<size=30><color=black>\u0022Eu tinha um emprego sem futuro produzindo esporos de levedura para uma padaria,\u0022 diz Gasogumelo. \u0022Então Soprogumelo, abençoado seja, me falou sobre essa ótima oportunidade de explodir zumbis. Agora eu realmente sinto que estou fazendo a diferença.\u0022</color></size>",
-      "info": "<size=32>Dispara gases de esporos que atravessam Portas de Tela e acertam vários zumbis de uma vez.\n\n<color=black>Dano: </color><color=#8B0000>20 | 1,5 segundos</color>\n<color=#780072>Especial: </color><color=#8B0000>Pode atravessar barreiras e acertar vários zumbis de uma vez.</color></size>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>75</color>\nRecarga: <color=#8B0000>7,5 segundos</color></size>"
+      "info": "<size=32>Dispara gases de esporos que atravessam Portas de Tela e acertam vários zumbis de uma vez.\n\n<color=black>Dano: </color><color=#8B0000>20 | 1,5s</color>\n<color=#780072>Especial: </color><color=#8B0000>Pode atravessar barreiras e acertar vários zumbis de uma vez.</color></size>",
+      "cost": "<size=28>\nCusto: <color=#8B0000>75</color>\nRecarga: <color=#8B0000>7,5s</color></size>"
     },
     {
       "seedType": 8,
-      "name": "<size=42>Hipnogumelo",
+      "name": "<size=42>Hipno-gumelo",
       "introduce": "<size=30><color=black>\u0022Os zumbis são nossos amigos,\u0022 afirma Hipnogumelo. \u0022São criaturas incompreendidas que desempenham um papel valioso na nossa ecologia. Podemos e devemos fazer mais para trazê-los ao nosso modo de pensar.\u0022</color></size>",
       "info": "<size=32>Encanta um zumbi para lutar por você.\n\n<color=#780072>Especial: </color><color=#8B0000>Faz um único zumbi lutar por você.</color></size>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>75</color>\nRecarga: <color=#8B0000>30 segundos</color></size>"
+      "cost": "<size=28>\nCusto: <color=#8B0000>75</color>\nRecarga: <color=#8B0000>30s</color></size>"
     },
     {
       "seedType": 9,
-      "name": "<size=42>Medogumelo",
+      "name": "<size=42>Medo-gumelo",
       "introduce": "<size=30><color=black>\u0022Quem está aí?\u0022 sussurra Medogumelo, com voz quase inaudível. \u0022Vá embora. Não quero ver ninguém. A menos que seja o homem do circo.\u0022</color></size>",
-      "info": "<size=32>Dispara um esporo de cada vez a longa distância, se escondem quando os zumbis se aproximam.\n\n<color=black>Dano: </color><color=#8B0000>20 | 1,5 segundos</color></size>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>25</color>\nRecarga: <color=#8B0000>7,5 segundos</color></size>"
+      "info": "<size=32>Dispara um esporo de cada vez a longa distância, se escondem quando os zumbis se aproximam.\n\n<color=black>Dano: </color><color=#8B0000>20 | 1,5s</color></size>",
+      "cost": "<size=28>\nCusto: <color=#8B0000>25</color>\nRecarga: <color=#8B0000>7,5s</color></size>"
     },
     {
       "seedType": 10,
-      "name": "<size=42>Gelogumelo",
+      "name": "<size=42>Gelo-gumelo",
       "introduce": "<size=30><color=black>\u0022Você deve manter uma postura fria e focada\u0022 aconselha Gelogumelo. \u0022A vida pode ter seus altos e baixos, mas o gelo se forma calmamente na superfície. E, com o frio, você afasta o calor da batalha.\u0022</color></size>",
       "info": "<size=32>Congela todos os zumbis no jardim.\n\n<color=#003e9c>Sistema Cryo: </color><color=#8B0000>Congela todos os zumbis no jardim.</color></size>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>75</color>\nRecarga: <color=#8B0000>50 segundos</color></size>"
+      "cost": "<size=28>\nCusto: <color=#8B0000>75</color>\nRecarga: <color=#8B0000>50s</color></size>"
     },
     {
       "seedType": 11,
-      "name": "<size=42>Ruínagumelo",
-      "introduce": "<size=30><color=black>\u0022No final\u0022, diz Ruínagumelo suavemente, \u0022todos seremos pó. Só estou aqui para acelerar as coisas para eles\u0022. Mesmo causando terror tanto em plantas quanto em zumbis, ela mantém seu ideal explícito. \u0022Você tem sorte que estou do seu lado\u0022, diz como sua palavra final.</color></size>",
+      "name": "<size=42>Doom-gumelo",
+      "introduce": "<size=30><color=black>\u0022No final\u0022, diz Bombagumelo suavemente, \u0022todos seremos pó. Só estou aqui para acelerar as coisas para eles\u0022. Mesmo causando terror tanto em plantas quanto em zumbis, ela mantém seu ideal explícito. \u0022Você tem sorte que estou do seu lado\u0022, diz como sua palavra final.</color></size>",
       "info": "<size=32>Destrói todos os zumbis em uma vasta área e deixa uma cratera.\n\n<color=black>Dano: </color><color=#8B0000>2000</color></size>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>125</color>\nRecarga: <color=#8B0000>50 segundos</color></size>"
+      "cost": "<size=28>\nCusto: <color=#8B0000>125</color>\nRecarga: <color=#8B0000>50s</color></size>"
     },
     {
       "seedType": 12,
-      "name": "<size=42>Vitória-Régia",
+      "name": "<size=42>Nenúfar",
       "introduce": "<size=30><color=black>Simples, serena e flutua com um grande senso de propósito. Vitória-Régia observa a superfície calma da água e sente a paz interior da natureza que a cerca.</color></size>",
-      "info": "<size=32>Permitem que você tenha plantas sobre da água.\n\n<color=#780072>Especial: </color><color=#8B0000>Permite plantar na piscina. Faz fusão com certas plantas e ganha a capacidade de gerá-las.\n</color><color=#000066>As fusões são:</color><color=black>\n- Aurora-Régia   → Girassol \n- Atriana-Régia  → Triplervilha\n- Natocha-Régia → Tronco Flamejante \n- Roberta-Régia  → Esmagador \n- Carolina-Régia → Pimenta</color></size>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>25</color>\nRecarga: <color=#8B0000>5 segundos</color></size>"
+      "info": "<size=32>Permitem que você tenha plantas sobre da água.\n\n<color=#780072>Especial: </color><color=#8B0000>Permite plantar na piscina. Faz fusão com certas plantas e ganha a capacidade de gerá-las.\n</color><color=#000066>As fusões são:</color><color=black>\n- Aurora-Régia   → Girassol \n- Atriana-Régia  → Triplervilha\n- Natocha-Régia → Tronco em Chamas \n- Roberta-Régia  → Esmagador \n- Carolina-Régia → Pimenta</color></size>",
+      "cost": "<size=28>\nCusto: <color=#8B0000>25</color>\nRecarga: <color=#8B0000>5s</color></size>"
     },
     {
       "seedType": 13,
-      "name": "<size=42>Esmagador",
+      "name": "<size=42>Esmaga",
       "introduce": "<size=30><color=black>\u0022Eu vim aqui para esmagar!\u0022, diz Esmagador... e... é... é isso que ele faz.</color></size>",
       "info": "<size=32>Esmaga o primeiro zumbi que se aproximar.\n\n<color=black>Dano: </color><color=#8B0000>instantâneo</color></size>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>50</color>\nRecarga: <color=#8B0000>7,5 segundos</color></size>"
+      "cost": "<size=28>\nCusto: <color=#8B0000>50</color>\nRecarga: <color=#8B0000>7,5s</color></size>"
     },
     {
       "seedType": 14,
-      "name": "<size=42>Triplervilha",
+      "name": "<size=42>Trêsvilha",
       "introduce": "<size=30><color=black>Uma vez, Triplervilha jogou xadrez contra si mesmo e ainda perdeu. Três vezes.</color></size>",
-      "info": "<size=32>Dispara em três linhas diferentes por vez.\n\n<color=black>Dano: </color><color=#8B0000>20 | 1,5 segundos (por linha)</color></size>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>325</color>\nRecarga: <color=#8B0000>7,5 segundos</color></size>"
+      "info": "<size=32>Dispara em três linhas diferentes por vez.\n\n<color=black>Dano: </color><color=#8B0000>20 | 1,5s (por linha)</color></size>",
+      "cost": "<size=28>\nCusto: <color=#8B0000>325</color>\nRecarga: <color=#8B0000>7,5s</color></size>"
     },
     {
       "seedType": 15,
-      "name": "<size=42>Emaranhalga",
+      "name": "<size=42>Esmagalga",
       "introduce": "<size=30><color=black>\u0022Vem aqui,\u0022 sussurra Emaranhalga do fundo do lago. \u0022Quero te mostrar uma coisinha\u0022.</color></size>",
       "info": "<size=32>Puxa para baixo o primeiro zumbi que se aproximar.\n\n<color=#780072>Especial: </color><color=#8B0000>Puxa zumbis em superfícies aquáticas causando derrota instantânea. Deve ser colocada diretamente sobre a água.</color></size>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>25</color>\nRecarga: <color=#8B0000>30 segundos</color></size>"
+      "cost": "<size=28>\nCusto: <color=#8B0000>25</color>\nRecarga: <color=#8B0000>30s</color></size>"
     },
     {
       "seedType": 16,
-      "name": "<size=42>Pimenta",
+      "name": "<size=42>Jalapeño",
       "introduce": "<size=30><color=black>\u0022NNNNNGGGGG....\u0022 diz Pimenta. Ela não vai explodir, pelo menos não desta vez. Mas em breve. Oh, tão em breve. Está perto. Ela sabe, ela pode sentir, toda a sua vida lhe levou até este momento.</color></size>",
       "info": "<size=32>Queima uma fila inteira de zumbis.\n\n<color=black>Dano: </color><color=#8B0000>1800</color>\n<color=#EE2200>Sistema Pyro: </color><color=#8B0000>Queima a fileira inteira.</color></size>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>125</color>\nRecarga: <color=#8B0000>50 segundos</color></size>"
+      "cost": "<size=28>\nCusto: <color=#8B0000>125</color>\nRecarga: <color=#8B0000>50s</color></size>"
     },
     {
       "seedType": 17,
       "name": "<size=42>Erva-Espinho",
       "introduce": "<size=30><color=black>Hóquei é a obsessão de Erva-Espinho. Ele tem ingressos de temporada de assentos VIP. Acompanha de perto seus jogadores favoritos. E sempre se dá bem na aposta do escritório sobre hóquei. Só tem um problema: ele tem pavor de discos de hóquei.</color></size>",
       "info": "<size=32>Estoura pneus e machuca qualquer zumbi que pise nele.\n\n<color=black>Dano: </color><color=#8B0000>20 | 1 segundo</color>\n<color=#780072>Especial: </color><color=#8B0000>Estoura pneus de veículos.</color></size>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>100</color>\nRecarga: <color=#8B0000>7,5 segundos</color></size>"
+      "cost": "<size=28>\nCusto: <color=#8B0000>100</color>\nRecarga: <color=#8B0000>7,5s</color></size>"
     },
     {
       "seedType": 18,
-      "name": "<size=42>Tronco Flamejante",
-      "introduce": "<size=30><color=black>Todo mundo gosta e respeita o Tronco Flamejante. Gostam dele por sua integridade, por sua amizade constante e por sua habilidade de maximizar muito o dano das ervilhas. Mas Tronco Flamejante tem um segredo: ele não sabe ler.</color></size>",
+      "name": "<size=42>Lareiras",
+      "introduce": "<size=30><color=black>Todo mundo gosta e respeita o Tronco em Chamas. Gostam dele por sua integridade, por sua amizade constante e por sua habilidade de maximizar muito o dano das ervilhas. Mas Tronco em Chamas tem um segredo: ele não sabe ler.</color></size>",
       "info": "<size=32>Incendeia ervilhas que causam o dobro de dano.\n\n<color=#780072>Especial: </color><color=#8B0000>Incendeia ervilhas para aumentar o dano e causar dano em área.</color></size>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>175</color>\nRecarga: <color=#8B0000>7,5 segundos</color></size>"
+      "cost": "<size=28>\nCusto: <color=#8B0000>175</color>\nRecarga: <color=#8B0000>7,5s</color></size>"
     },
     {
       "seedType": 19,
-      "name": "<size=42>Cogumarinho",
+      "name": "<size=42>Mar-gumelo",
       "introduce": "<size=30><color=black>Cogumarinho nunca viu o mar. Está em seu nome, ele já ouviu falar bastante sobre ele, mas nunca teve tempo para isso. Mas um dia, quem sabe, ele vá conhecer.</color></size>",
-      "info": "<size=32>Dispara um esporo de cada vez a curta distância na água.\n\n<color=black>Dano: </color><color=#8B0000>20 | 1,5 segundos</color>\n<color=#780072>Especial: </color><color=#8B0000>Deve ser colocado diretamente sobre a água.</color></size>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>0</color>\nRecarga: <color=#8B0000>7,5 segundos</color></size>"
+      "info": "<size=32>Dispara um esporo de cada vez a curta distância na água.\n\n<color=black>Dano: </color><color=#8B0000>20 | 1,5s</color>\n<color=#780072>Especial: </color><color=#8B0000>Deve ser colocado diretamente sobre a água.</color></size>",
+      "cost": "<size=28>\nCusto: <color=#8B0000>0</color>\nRecarga: <color=#8B0000>7,5s</color></size>"
     },
     {
       "seedType": 20,
       "name": "<size=42>Planterna",
-      "introduce": "<size=30><color=black>Planterna desafia a ciência. Ele simplesmente faz. Outras plantas absorvem luz e liberam oxigênio, Planterna absorve escuridão e libera luz. Ela evita dizer como faz isso. \u0022Não vou chamar de 'feitiçaria' nem usaria o termo 'forças sombrias', eu só... acho que já falei o suficiente.\u0022</color></size>",
-      "info": "<size=32>As Planternas iluminam uma área para permitir que você veja através da neblina e fornecem níveis de luz para outras plantas.\n\n<color=#780072>Especial: </color><color=#8B0000>Dispersa a neblina com luz.</color>\n<color=#DDDDDD>Sistema Lumos: </color><color=#8B0000>Fornece 1 Nível de Lumos em uma grade 3x3, fortalecendo outras plantas bioluminescentes.</color></size>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>25</color>\nRecarga: <color=#8B0000>15 segundos</color></size>"
+      "introduce": "<size=30><color=black>Plampião desafia a ciência. Ele simplesmente faz. Outras plantas absorvem luz e liberam oxigênio, Plampião absorve escuridão e libera luz. Ela evita dizer como faz isso. \u0022Não vou chamar de 'feitiçaria' nem usaria o termo 'forças sombrias', eu só... acho que já falei o suficiente.\u0022</color></size>",
+      "info": "<size=32>As Plampiãos iluMinam uma área para permitir que você veja através da neblina e fornecem níveis de luz para outras plantas.\n\n<color=#780072>Especial: </color><color=#8B0000>Dispersa a neblina com luz.</color>\n<color=#DDDDDD>Sistema Lumos: </color><color=#8B0000>Fornece 1 Nível de Lumos em uma grade 3x3, fortalecendo outras plantas bioluminescentes.</color></size>",
+      "cost": "<size=28>\nCusto: <color=#8B0000>25</color>\nRecarga: <color=#8B0000>15s</color></size>"
     },
     {
       "seedType": 21,
-      "name": "<size=42>Cacto",
-      "introduce": "<size=30><color=black>Ele é espinhoso, com certeza, mas os espinhos do Cacto escondem um coração leve cheio de amor e boa vontade. Ele só quer abraçar e ser abraçado. A maioria das pessoas não consegue lidar com isso, mas Cacto não se importa. Ele está saindo com um tatu há um tempo e parece que está dando certo.</color></size>",
-      "info": "<size=32>Dispara um espinho de cada vez que pode atingir alvos tanto no chão quanto no ar.\n\n<color=black>Dano: </color><color=#8B0000>20 | 1,5 segundos</color>\n<color=#780072>Especial: </color><color=#8B0000>Pode atacar zumbis voadores.</color></size>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>125</color>\nRecarga: <color=#8B0000>7,5 segundos</color></size>"
+      "name": "<size=42>Cato",
+      "introduce": "<size=30><color=black>Ele é espinhoso, com certeza, mas os espinhos do Cato escondem um coração leve cheio de amor e boa vontade. Ele só quer abraçar e ser abraçado. A maioria das pessoas não consegue lidar com isso, mas Cato não se importa. Ele está saindo com um tatu há um tempo e parece que está dando certo.</color></size>",
+      "info": "<size=32>Dispara um espinho de cada vez que pode atingir alvos tanto no chão quanto no ar.\n\n<color=black>Dano: </color><color=#8B0000>20 | 1,5s</color>\n<color=#780072>Especial: </color><color=#8B0000>Pode atacar zumbis voadores.</color></size>",
+      "cost": "<size=28>\nCusto: <color=#8B0000>125</color>\nRecarga: <color=#8B0000>7,5s</color></size>"
     },
     {
       "seedType": 22,
-      "name": "<size=42>Turbinada",
-      "introduce": "<size=30><color=black>Quando Turbinada tinha cinco anos, ela ganhou um lindo bolo de aniversário. Turbinada fez seu pedido, soprou e assoprou, mas conseguiu apagar apenas 60% das velas. Em vez de desistir, no entanto, ela usou essa derrota inicial como um catalisador para se esforçar mais desde então.</color></size>",
+      "name": "<size=42>Trêventoinha",
+      "introduce": "<size=30><color=black>Quando Treventoinha tinha cinco anos, ela ganhou um lindo bolo de aniversário. Treventoinha fez seu pedido, soprou e assoprou, mas conseguiu apagar apenas 60% das velas. Em vez de desistir, no entanto, ela usou essa derrota inicial como um catalisador para se esforçar mais desde então.</color></size>",
       "info": "<size=32>Assopra todos os Zumbis Balão e a névoa, exceto os Zumbicópteros e os Zumpelims.\n\n<color=#780072>Especial: </color><color=#8B0000>Afasta a névoa e os Zumbis Balão, exceto os Zumbicópteros e os Zumpelims, mas empurra os Zumpelims um pouco para trás.</color></size>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>100</color>\nRecarga: <color=#8B0000>15 segundos</color></size>"
+      "cost": "<size=28>\nCusto: <color=#8B0000>100</color>\nRecarga: <color=#8B0000>15s</color></size>"
     },
     {
       "seedType": 23,
       "name": "<size=42>Carambola",
       "introduce": "<size=30><color=black>\u0022Ah, cara...\u0022, diz Carambola. \u0022Fui ao dentista outro dia, e ele disse que eu tenho quatro cáries... Mas olha bem, eu tenho — conta aí — UM DENTE SÓ! Quatro cáries em um dente? Como isso é possível?\u0022</color></size>",
-      "info": "<size=32>Dispara 5 estrelas de cada vez em 5 direções.\n\n<color=black>Dano: </color><color=#8B0000>20x5 | 1,5 segundos</color></size>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>125</color>\nRecarga: <color=#8B0000>7,5 segundos</color></size>"
+      "info": "<size=32>Dispara 5 estrelas de cada vez em 5 direções.\n\n<color=black>Dano: </color><color=#8B0000>20x5 | 1,5s</color></size>",
+      "cost": "<size=28>\nCusto: <color=#8B0000>125</color>\nRecarga: <color=#8B0000>7,5s</color></size>"
     },
     {
       "seedType": 24,
       "name": "<size=42>Abóbora",
       "introduce": "<size=30><color=black>Abóbora acabou de finalizar seu trabalho de meio período. \u0022Honestamente, foi uma experiência bem divertida,\u0022 ela riu. \u0022Mas alguém pode explicar por que eles continuaram colocando doces e velas dentro de mim?\u0022</color></size>",
       "info": "<size=32>Protegem as plantas que estão dentro de suas cascas.\n\n<color=black>Resistência: </color><color=#8B0000>4000</color>\n<color=black>Prioridade de Fusão: </color><color=#8B0000>Baixa</color></size>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>125</color>\nRecarga: <color=#8B0000>30 segundos</color></size>"
+      "cost": "<size=28>\nCusto: <color=#8B0000>125</color>\nRecarga: <color=#8B0000>30s</color></size>"
     },
     {
       "seedType": 25,
-      "name": "<size=42>Ímãgumelo",
-      "introduce": "<size=30><color=black>Todos se perguntavam por que Ímãgumelo sempre levava tanto tempo para \u0022digerir\u0022 o ferro que absorveu, mesmo depois que ele já havia sido levado para fusão. Frustrado, ele gritou: \u0022Não sou preguiçoso! Apenas fui nocauteado por ferro voador!\u0022</color></size>",
-      "info": "<size=32>Ímãgumelo pode atrair e absorver objetos metálicos.\n\n<color=#780072>Especial: </color><color=#8B0000>Atrai objetos metálicos e deixa-os disponíveis para fundir com plantas.</color>\n<color=#333333>Sistema Magnético: </color><color=#8B0000>Se houverem plantas magnéticas ao redor, elas vão se conectar em um Sistema Magnético. O Sistema Magnético não tem limite e aumentará a força de plantas magnéticas com base na quantidade.</color></size>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>100</color>\nRecarga: <color=#8B0000>7,5 segundos</color></size>"
+      "name": "<size=42>Magneto-gumelo",
+      "introduce": "<size=30><color=black>Todos se perguntavam por que Ímangumelo sempre levava tanto tempo para \u0022digerir\u0022 o ferro que absorveu, mesmo depois que ele já havia sido levado para fusão. Frustrado, ele gritou: \u0022Não sou preguiçoso! Apenas fui nocauteado por ferro voador!\u0022</color></size>",
+      "info": "<size=32>Ímangumelo pode atrair e absorver objetos metálicos.\n\n<color=#780072>Especial: </color><color=#8B0000>Atrai objetos metálicos e deixa-os disponíveis para fundir com plantas.</color>\n<color=#333333>Sistema Magnético: </color><color=#8B0000>Se houverem plantas magnéticas ao redor, elas vão se conectar em um Sistema Magnético. O Sistema Magnético não tem limite e aumentará a força de plantas magnéticas com base na quantidade.</color></size>",
+      "cost": "<size=28>\nCusto: <color=#8B0000>100</color>\nRecarga: <color=#8B0000>7,5s</color></size>"
     },
     {
       "seedType": 26,
-      "name": "<size=42>Repolhopulta",
+      "name": "<size=42>Couve-pulta",
       "introduce": "<size=30><color=black>Alguns dizem que o amor é como um repolho; você tem que descascá-lo camada por camada para ver o coração da outra pessoa. Mas Repolhopulta tem algumas ressalvas sobre isso, pois ele ainda é solteiro.</color>",
-      "info": "<size=32>Lança repolhos em parábola para atacar zumbis.\n\n<color=black>Dano: </color><color=#8B0000>40 | 3 segundos</color>\n<color=black>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>100</color>\nRecarga: <color=#8B0000>7,5 segundos</color>"
+      "info": "<size=32>Lança repolhos em parábola para atacar zumbis.\n\n<color=black>Dano: </color><color=#8B0000>40 | 3s</color>\n<color=black>",
+      "cost": "<size=28>\nCusto: <color=#8B0000>100</color>\nRecarga: <color=#8B0000>7,5s</color>"
     },
     {
       "seedType": 27,
       "name": "<size=42>Vaso",
       "introduce": "<size=30><color=black>As plantas sempre pensam que Vaso é apenas um \u0022vaso,\u0022 mas, na realidade, Vaso é uma \u0022flor\u0022 que parece um \u0022vaso.\u0022 Olha, aquele pequeno broto é o broto de uma flor.</color>",
       "info": "<size=32>Permite ter plantas sobre ele.\n\n<color=#780072>Especial: </color><color=#8B0000>Permite que plantas sejam plantadas em terrenos acidentados.</color>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>25</color>\nRecarga: <color=#8B0000>7,5 segundos</color>"
+      "cost": "<size=28>\nCusto: <color=#8B0000>25</color>\nRecarga: <color=#8B0000>7,5s</color>"
     },
     {
       "seedType": 28,
-      "name": "<size=42>Milhopulta",
+      "name": "<size=42>Milho-pulta",
       "introduce": "<size=30><color=black>As plantas estão curiosas sobre de onde vem a manteiga de Milhopulta. Milhopulta também não sabe, mas isso não o impede de fazer pipoca com ele em seu tempo livre para ganhar um dinheirinho extra.</color>",
-      "info": "<size=32>Lança grãos de milho em parábola para atacar zumbis.\n\n<color=black>Dano: </color><color=#8B0000>20 | 3 ​​segundos</color>\n<color=#780072>Especial: </color><color=#8B0000>Tem 25% de chance de lançar manteiga, causando 40 de dano e imobilizando zumbis por 4 segundos.<color=#8B0000></color>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>100</color>\nRecarga: <color=#8B0000>7,5 segundos</color>"
+      "info": "<size=32>Lança grãos de milho em parábola para atacar zumbis.\n\n<color=black>Dano: </color><color=#8B0000>20 | 3 ​s</color>\n<color=#780072>Especial: </color><color=#8B0000>Tem 25% de chance de lançar manteiga, causando 40 de dano e imobilizando zumbis por 4s.<color=#8B0000></color>",
+      "cost": "<size=28>\nCusto: <color=#8B0000>100</color>\nRecarga: <color=#8B0000>7,5s</color>"
     },
     {
       "seedType": 29,
       "name": "<size=42>Alho",
       "introduce": "<size=30><color=black>Alho se gaba de seu alto teor de alicina, alegando que comer alho é bom para a saúde. Seja isso verdade ou não, você só precisa assistir os zumbis engasgando enquanto o mastigam para saber que é bem eficaz. </color>",
       "info": "<size=32>Deixa um gosto ruim nas bocas dos zumbis.\n\n<color=#780072>Especial: </color><color=#8B0000>Zumbis que o morderem mudarão de fila. </color>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>50</color>\nRecarga: <color=#8B0000>7,5 segundos</color>"
+      "cost": "<size=28>\nCusto: <color=#8B0000>50</color>\nRecarga: <color=#8B0000>7,5s</color>"
     },
     {
       "seedType": 30,
-      "name": "<size=42>Folha Guarda-Chuva",
+      "name": "<size=42>Planta Guarda-Chuva",
       "introduce": "<size=30><color=black>Antigamente um renomado passador, Folha Guarda-Chuva foi um astro na 114ª Plant-Zombie NBA. Mas conforme ele envelhecia, ele descobriu que estava ficando calvo...</color>",
       "info": "<size=32>Uma planta guarda-chuva de Folhas Verdes.\n\n<color=#780072>Especial: </color><color=#8B0000>Pode desviar bolas de basquete em uma área de 3x3.</color>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>75</color>\nRecarga: <color=#8B0000>7,5 segundos</color>"
+      "cost": "<size=28>\nCusto: <color=#8B0000>75</color>\nRecarga: <color=#8B0000>7,5s</color>"
     },
     {
       "seedType": 31,
-      "name": "<size=42>Calêndula",
+      "name": "<size=42>Margarida",
       "introduce": "<size=30><color=black>Calêndula é extraordinariamente rica, então ela gasta livremente — embora, tecnicamente, ela nem tenha mãos ou pés.</color>",
-      "info": "<size=32>Gera moedas de prata, de ouro e diamantes.\n\n<color=black>Produção: </color><color=#8B0000>25 segundos</color>\n<color=#446600>Sistema Monetário: </color><color=black>Gera dinheiro no seguinte esquema:\n</color><color=#8B0000>75% de chance = 100 moedas (prata)\n20% de chance = 300 moedas (ouro)\n5% de chance = 1000 moedas (diamante)</color>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>25</color>\nRecarga: <color=#8B0000>7,5 segundos</color>"
+      "info": "<size=32>Gera moedas de prata, de ouro e diamantes.\n\n<color=black>Produção: </color><color=#8B0000>25s</color>\n<color=#446600>Sistema Monetário: </color><color=black>Gera dinheiro no seguinte esquema:\n</color><color=#8B0000>75% de chance = 100 moedas (prata)\n20% de chance = 300 moedas (ouro)\n5% de chance = 1000 moedas (diamante)</color>",
+      "cost": "<size=28>\nCusto: <color=#8B0000>25</color>\nRecarga: <color=#8B0000>7,5s</color>"
     },
     {
       "seedType": 32,
-      "name": "<size=42>Melancipulta",
+      "name": "<size=42>Melão-pulta",
       "introduce": "<size=30><color=black>Durante os intervalos, Melancipulta adora dividir uma de suas melancias em dois, mordiscando para se refrescar. \u0022Quer experimentar?\u0022 ela pergunta alegremente aos zumbis, enquanto as plantas ao redor, sufocando no calor, só conseguem babar de inveja.</color>",
-      "info": "<size=32>Lança melancias em parábola para atacar zumbis.\n\n<color=black>Dano: </color><color=#8B0000>80 | 3 segundos</color>",
-      "cost": "<size=28>\nCusto: <color=#8B0000>300</color>\nRecarga: <color=#8B0000>7,5 segundos</color>"
+      "info": "<size=32>Lança melancias em parábola para atacar zumbis.\n\n<color=black>Dano: </color><color=#8B0000>80 | 3s</color>",
+      "cost": "<size=28>\nCusto: <color=#8B0000>300</color>\nRecarga: <color=#8B0000>7,5s</color>"
     },
     {
       "seedType": 33,
-      "name": "<size=42>Petalâmina",
-      "introduce": "<size=30><color=black>Para as plantas, girar suas pétalas sem danificar o caule é uma habilidade técnica. Alguns botânicos sugerem que a Petalâmina pode ter algum parentesco próximo com a Turbinada. \"É realmente uma técnica desafiadora\", diz a Petalâmina, tentando parecer sábia. A dificuldade está em encontrar uma serra circular leve o suficiente e pintá-la como pétalas.</color>",
-      "info": "<size=32>Ataca zumbis próximos com suas pétalas afiadas!\n\n<color=black>Características: </color><color=#8B0000>Gira suas pétalas quando zumbis se aproximam, causando 5 de dano por 0,02 segundos a todos os zumbis próximos (em área).</color>",
-      "cost": "<size=28>\nCusto:  <color=#8B0000>100</color>\nRecarga:  <color=#8B0000>7,5 segundos</color>"
+      "name": "Não-me-vejas",
+      "introduce": "<align=justified><size=36><color=black>For plants, spinning petals without damaging their stems is a skillful art. Some botanists speculate that Saw-me-not might be distantly related to Blover because of this ability. \"It's indeed a tricky skill,\" Saw-me-not said with a faux-profound air, \"The real challenge lies in obtaining lightweight circular saws and painting them with petal patterns.\"</color>",
+      "info": "<size=36>Damages zombies in close range with his spinning sawblades!\n\n<color=black>Damage: </color><color=#8B0000>8/0.02s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Gains 5 points of Shield every 0.5s, up to 300 max.\n<color=black>•</color> Spins blades when zombies get close, dealing piercing damage that scales down with more targets, to a minimum of 1.</color>\n<color=black>Shield Mechanic: </color><color=#8B0000>Shields provide a 20% damage reduction to protected plants.</color>",
+      "cost": "<size=36>Cost: <color=#8B0000>100</color>\nRecharge: <color=#8B0000>7.5s</color>"
+          
     },
     {
       "seedType": 34,
